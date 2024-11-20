@@ -1,0 +1,8 @@
+{
+  "name": "playground--x-csrf-token",
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1"
+  }
+}
